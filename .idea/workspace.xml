@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c6b5dcd-dd26-4c47-a42c-d3cd15d374be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/band_name_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/band_name_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
