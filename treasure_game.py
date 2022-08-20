@@ -30,11 +30,11 @@ elif first_step == "left":
     if second_step == "swim":
         print("Game over....")
     elif second_step == "wait":
-        third_step = input("Which door did you wanna pick 'red' , 'blue' or 'yellow' ?\n")
-        if third_step == "red" or "blue":
-            print("Game over....")
-        elif third_step == "yellow":
+        third_step = input("Which door did you wanna pick 'red' , 'blue' , 'yellow' ?\n")
+        if third_step == "yellow":
             print("Well done you win the game!!!")
+        elif third_step == "red" or "blue":
+            print("Game over.....")
         else:
             print("Error.....")
     else:
